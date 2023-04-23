@@ -16,4 +16,5 @@ My exploring plan about Fishers Iris still on it, but few things i can say about
 ....and Plotly (vizualizatoin tools)
 Before I had started something to do with code I used a "import ...as..." for all libraries.
 During whole process i had a troble with command git push in CMDR and suddenly open for yourself adding files inside of my repository
-
+unfortunatly Im stuck for hours with problems install pip,conda,matplot in CMD...looks like something wrong with PATH. I cant go farther then fix it.
+I tried change PATH by hands. After I delete old version and install the new Anaconda but unssucsesfully. 
