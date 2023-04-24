@@ -13,12 +13,14 @@ In diagramms (which shows 3 colors - red=setosa, green=versicolor,blue=virginica
 
  
  
-Open the UCI Irvine Machine Learning Repository Iris data set I click Data Folder and download isis.data. Its allow me put it in my pandas-progect in GitHub.
-After than I suppose 
-import matplotlib.pyplot as plt
+Open the UCI Irvine Machine Learning Repository Iris data set I click Data Folder.Its show us all classification of iris. If you want to save it in your repository very handy to use Jupyter notebook. In CMD I open this note "jupyter notebook" and "import pandas as pd". Pandas its a one of library in Python and allow me retrieve what it has.  Importing data is the first step in any data progect.Next step is call " the read_csv()"function. I suppose it make my filepath to be readable in pandas memory. 
 
-# unused but required import for doing 3d projections with matplotlib < 3.2
-import mpl_toolkits.mplot3d  # noqa: F401
+df = pd.read_csv (whole filepath I copy from machine repository)
+Using df.shape, df.tail,df.head you can see more structure how it can be
 
-from sklearn import datasets
-from sklearn.decomposition import PCA
+Now we ready to git push this Data set to your repository.
+
+Another intresting thing is using LOAD DATA.
+This function (scikit-learn) allow us to see data keps,how build. We would be see how looks histograms and etc, but 2 things doesnt let me show you here this: 1) Im total begginer and I still workind on pr enviroment problems 2) Our deadline move earlier.Its critical for total begginers who spend all time reading and researching things that are obvious to most all people. However:
+
+
