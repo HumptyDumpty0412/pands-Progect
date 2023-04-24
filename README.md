@@ -9,7 +9,8 @@ In diagramms (which shows 3 colors - red=setosa, green=versicolor,blue=virginica
 . Originally used as an example dataset on which Fishers linear discriminant analysis was applied it became a typical test case for many statistical classification techniques in machine learning such a support vector machines. Iris Data Set keep in open search in https://archive.ics.uci.edu/ml/datasets/iris. When you open this link you can see pretty simple site with main characteristic we talking before: a set of 150 records under 5 attributes.
  
  
- 
+ ![Iris_dataset_scatterplot](https://user-images.githubusercontent.com/124403326/234086234-03047f84-04fa-4207-9b6a-6e169d738ba2.svg)
+
  
  
 Open the UCI Irvine Machine Learning Repository Iris data set I click Data Folder and download isis.data. Its allow me put it in my pandas-progect in GitHub.
