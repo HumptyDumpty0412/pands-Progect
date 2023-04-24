@@ -7,11 +7,17 @@ The classification of this flowers was proposed Edgar Anderson (biologist) and c
  The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the Lenght and the Width of the Sepals and Petals (in cm). In short : the goal is distinguish the species from each other.
 In diagramms (which shows 3 colors - red=setosa, green=versicolor,blue=virginica) I noticed what Versicolor and Virginica always mixed together.While Setosa never come togheger none of them. I suppose is called "cluster analysis". But Im not good at maths,sorry. and I skip this part.
 . Originally used as an example dataset on which Fishers linear discriminant analysis was applied it became a typical test case for many statistical classification techniques in machine learning such a support vector machines. Iris Data Set keep in open search in https://archive.ics.uci.edu/ml/datasets/iris. When you open this link you can see pretty simple site with main characteristic we talking before: a set of 150 records under 5 attributes.
- Thereby this progect I knew a  what Python have a libraries( and a huge lack of ignorance myself in techision details,howewer):  
-+scikit-lear (free software library for Python ) anybody can test it without any private access
-+ Pandas,
-+ Mathplotlib
-+ Numpy
-+ SciPy
-....and Plotly (vizualizatoin tools)
+ 
+ 
+ 
+ 
+ 
 Open the UCI Irvine Machine Learning Repository Iris data set I click Data Folder and download isis.data. Its allow me put it in my pandas-progect in GitHub.
+After than I suppose 
+import matplotlib.pyplot as plt
+
+# unused but required import for doing 3d projections with matplotlib < 3.2
+import mpl_toolkits.mplot3d  # noqa: F401
+
+from sklearn import datasets
+from sklearn.decomposition import PCA
