@@ -21,6 +21,6 @@ Using df.shape, df.tail,df.head you can see more structure how it can be
 Now we ready to git push this Data set to your repository.
 
 Another intresting thing is using LOAD DATA.
-This function (scikit-learn) allow us to see data keps,how build. We would be see how looks histograms and etc, but 2 things doesnt let me show you here this: 1) Im total begginer and I still workind on pr enviroment problems 2) Our deadline move earlier.Its critical for total begginers who spend all time reading and researching things that are obvious to most all people. However:
+This function (scikit-learn) allow us to see data keps,how build. We would be see how looks histograms and etc
 
 
