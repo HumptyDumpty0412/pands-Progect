@@ -25,9 +25,16 @@ Prigect point has conclusion in few steps:
 4. Model Evaluation.
 5. Testing the model.
    In this article of Iris Flowers Classification, we will be dealing with Logistic Regression Machine Learning Algorithm. First, we will see logistic Regression, and then we will understand the working of an algorithm with the Iris flowers dataset. Iris Dataset contains features of different flower species. Independent features in this dataset are Sepal Length, Sepal Width, Petal Length, and Petal Width. All these lengths were in centimeters.
+   
+   In my notebook at the beggining you can see I import few libraries from Python. Its need for calling functions and to see how work each method separate of each other or how it works together.
 
-# intresting thing is using LOAD DATA.
-# This function (scikit-learn) allow us to see data keps,how build. We would be see how looks histograms and etc
+ Intresting thing is using LOAD DATA. IN my case I call "datasets.load_iris"
+ 
+ 
+ 
+ 
+ 
+This function (scikit-learn) allow us to see data keps,how build. We would be see how looks histograms and etc
 
 
 
