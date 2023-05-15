@@ -18,7 +18,7 @@ df = pd.read_csv (whole filepath I copy from machine repository)
 Using df.shape, df.tail,df.head you can see more structure how it can be
 
 Now we ready to git push this Data set to your repository.
-Prigect point has conclusion in few steps:
+Progect point has conclusion in few steps:
 1. Load the data
 2. Analyze and visualize the dataset
 3. Model training.
