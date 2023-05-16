@@ -28,7 +28,12 @@ Progect point has conclusion in few steps:
    
    In my notebook at the beggining you can see I import few libraries from Python. Its need for calling functions and to see how work each method separate of each other or how it works together.
 
- Intresting thing is using LOAD DATA. IN my case I call "datasets.load_iris"
+ Intresting thing is using LOAD DATA.
+ For this I call scikit-learn (use for modeling, already has this data set built). Choose dataset.load_iris (open and see the features/species/etc). After that you can choose any subject to testing/reaserch. For excample, "data target" show me what our target just give me 0 and 1 or 2 and this indicating or not a flower that the measurement is from  . For VISUALIZATION we use NumPy(its good for at quick efficiant computation over array). I create Pandas Frame (its pretty for columns differernt types and histogramms). df = pd.DataFrame also has promp shows species: df data target/data head/describe( the last one contains minimum and max mean)
+ In basic sence of DISTRIBUTIONS we can see different shape of species of flowers(Beautyfull!) and each of features (sepal/petal). In section EDA you can see pretty single seaborn lie of line of code. We see a plotting every variable in our dataset againist every other variable (I use "hue" metod for colorful contrast). Here we can see what Setosa Iris is also stay away like bunch.
+ 
+ 
+ 
  
  
  
