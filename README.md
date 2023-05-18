@@ -33,15 +33,16 @@ Progect point has conclusion in few steps:
  In basic sence of DISTRIBUTIONS we can see different shape of species of flowers(Beautyfull!) and each of features (sepal/petal). In section EDA you can see pretty single seaborn lie of line of code. We see a plotting every variable in our dataset againist every other variable (I use "hue" metod for colorful contrast). Here we can see what Setosa Iris is also stay away like bunch.
  Next step in analisis is TRAIN TEST and MODELING(most basic sence fundamentally:mapping inputs to outputs in an intelligent way).Prepairing for modeling one of the most important parts about is always put aside part of your data to evaluate our model on in the very  end. Evaluate is important concept while it not seen till we were training/fitting our model. One of the way to do this is creat the thing called a train test split. And this is setting aside a little piece of our data for very end to evaluate our final model on. In a middle of this block we put cross-validation(It should be help to do this easier). As I import scikit-learn in the beginning, I fount in this selection and import train_test_split (prompts help to read about more there, you need just put "?" after that). In this line "df_train,df_test = train_test_split(df,test_size=0.25)" - I put size 0.25. Its mean I take small part (25%),split it up into 75% of whole our data and "forget it" untill very end. And this small piece I used for evaluate our final model. In block  "manual model" we compaire block EDA (2 below lines of plots) and trying understand how to write code correctly. Our point to reach accuracyusinf if-else statments and we went from a 33% baseline accuracy up to 95.5% accuracy. 
  (Short notice about LOgistic Regression is never want to evaluate our model on the same data that was used for training, )
+ Conclusion:
+  Get a taste of how diggin in code. How to use Jupyter Notebook,the idea to use this task is knowlege about data, how its work. How it show results. How to see a plot the data. Call model/function and research inside of then what include. What it can define stuff manually. We can change and play around and see how change accuracy what can i get. Making predictions. And how important to train model on different data than we evaluate our model (its a key point of all data, and another importand key is cross-validation)
+  Iris Dataset calls classic dataset and at the end i finally understand why - you can call/see/try without risk to demage computer and open new opitions of code.  Its so hard for my performance of "classic" but i really enjoed when my little copy steps succesfully started work. I hope my progect has a vision of complete and meets the expectations of teacher.
+ Thank you for your time.
+ Elena
  
  
  
  
- 
- 
- 
- 
-This function (scikit-learn) allow us to see data keps,how build. We would be see how looks histograms and etc
+
 
 
 
