@@ -37,6 +37,7 @@ Progect point has conclusion in few steps:
   Get a taste of how diggin in code. How to use Jupyter Notebook,the idea to use this task is knowlege about data, how its work. How it show results. How to see a plot the data. Call model/function and research inside of then what include. What it can define stuff manually. We can change and play around and see how change accuracy what can i get. Making predictions. And how important to train model on different data than we evaluate our model (its a key point of all data, and another importand key is cross-validation)
   Iris Dataset calls classic dataset and at the end i finally understand why - you can call/see/try without risk to demage computer and open new opitions of code.  Its so hard for my performance of "classic" but i really enjoed when my little copy steps succesfully started work. I hope my progect has a vision of complete and meets the expectations of teacher.
  Thank you for your time.
+ Sincerely,
  Elena
  
  
